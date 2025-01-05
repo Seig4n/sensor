@@ -77,6 +77,6 @@
 端子容量	| 500pF
 受光感度(typ)	| 0.01A/W
 
--  sglux UV-Photodiode SG01XL-5ISO90
+-  UV-Photodiode SG01XL-5ISO90
 
 # 回路図と外観図
